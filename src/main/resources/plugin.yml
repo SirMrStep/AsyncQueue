@@ -1,0 +1,4 @@
+name: AsyncQueue
+main: me.steep.asyncqueue.AsyncQueue
+version: 1.0.0
+author: Steep
